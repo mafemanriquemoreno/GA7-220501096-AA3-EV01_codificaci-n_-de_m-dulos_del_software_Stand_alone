@@ -6,6 +6,8 @@ Este repositorio contiene el desarrollo de la evidencia **"Codificación de mód
 * Felipe Vélez
 * María Fernanda Manrique
 
+* Enlace del vídeo https://drive.google.com/file/d/11BcE7_XMzAmtTts_YSdFKcMcsmxGyVAP/view?usp=drive_link
+
 ---
 
 ### 📝 Aclaración Importante sobre la Tecnología Utilizada
