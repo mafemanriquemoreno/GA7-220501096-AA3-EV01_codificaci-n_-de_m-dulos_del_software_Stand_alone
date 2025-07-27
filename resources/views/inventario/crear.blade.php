@@ -10,11 +10,9 @@
             <div class="bg-white overflow-hidden shadow-sm sm:rounded-lg">
                 <div class="p-6 text-gray-900">
                     
-                    {{-- Formulario para crear un nuevo elemento --}}
                     <form method="POST" action="{{ route('inventario.store') }}">
                         @csrf
 
-                        {{-- Bloque para mostrar errores de validación --}}
                         @if ($errors->any())
                             <div class="mb-4 bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded relative" role="alert">
                                 <strong class="font-bold">¡Error!</strong>
